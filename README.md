@@ -3,7 +3,7 @@
 Proyek machine learning end-to-end untuk mendeteksi transaksi kartu kredit palsu pada data yang **sangat tidak seimbang** (fraud hanya 0,17%): mulai dari EDA, perbandingan model, tuning threshold berdasarkan biaya bisnis, penjelasan model dengan SHAP, sampai aplikasi demo Streamlit.
 
 
-🔗 **Demo aplikasi:** [tambahkan link Streamlit di sini](https://share.streamlit.io)
+🔗 **Demo aplikasi:** https://fraud-detection-iccafw.streamlit.app/
 
 
 ## 📌 Ringkasan
